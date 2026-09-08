@@ -34,30 +34,6 @@ I love sharing my creations and contributing to the development community!
 
 ---
 
-## 📊 GitHub Stats & Contributions
-
-<div align="center">
-  <a href="https://github.com/vien105200318">
-    <img src="https://github-readme-stats.vercel.app/api?username=vien105200318&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Vien's GitHub Stats" />
-  </a>
-  <a href="https://github.com/vien105200318">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vien105200318&layout=compact&theme=vue&hide_border=true" alt="Vien's Top Languages" />
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vien105200318&theme=radical&no-frame=true&no-bg=true" alt="Vien's GitHub Trophies" />
-  </a>
-</div>
-
----
-
-## 🐍 My GitHub Activity Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vien105200318/vien105200318/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
 ## 🔭 Current Focus
 
 * **Indie Games at Vai-Studio:** Developing and releasing engaging independent game titles.
